@@ -16,7 +16,7 @@ lab2web is built on JSNetworkX, which itself requires the [D3 visualization libr
 To load JSNetworkX_lab2web, D3, and lab2web itself, include the `jsnetworkx_lab2web.js` and `lab2web.js` files on your website directory. Then, add the following in your HTML header:
 
 ```html
-<script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+<script src="https://d3js.org/d3.v3.min.js" charset="utf-8"></script>
 <script type="text/javascript" src="./jsnetworkx_lab2web.js"></script>
 <script type="text/javascript" src="./lab2web.js"></script>
 ```
