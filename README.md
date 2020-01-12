@@ -1,6 +1,6 @@
 # lab2web
 ### lab2web builds webs (mental maps) presenting current research.
-Read more at [lab-squared.github.io](lab-squared.github.io)
+Read more and view an example on [labSquared](https://lab-squared.github.io/), at [lab-squared.github.io/metabolism/](https://lab-squared.github.io/metabolism/o)
 
 Made by Pablo Cárdenas, [pablo-cardenas.com](pablo-cardenas.com)
 
