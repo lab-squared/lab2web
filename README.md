@@ -4,10 +4,8 @@ Read more at [lab-squared.github.io](lab-squared.github.io)
 
 Made by Pablo Cárdenas, [pablo-cardenas.com](pablo-cardenas.com)
 
-Based on [JSNetworkX](http://jsnetworkx.org)
-Colors taken from color blind palette on
-http://www.cookbook-r.com/Graphs/Colors_(ggplot2)/
-which was developed by http://jfly.iam.u-tokyo.ac.jp/color/
+Based on [JSNetworkX](http://jsnetworkx.org). Colors taken from [this color blind palette](http://www.cookbook-r.com/Graphs/Colors_(ggplot2)/),
+which was developed by [Okabe & Ito](http://jfly.iam.u-tokyo.ac.jp/color/).
 
 # Rationale
 Nodes on the map contain lines of research, with text color denoting research hypotheses or methodological/technology development. The color of a node denotes a hypothesis or technology's status as supported by evidence, disproven, or lacking enough evidence for a conclusion. Finally the border type signals a node's status as archived, current, or future line of research. Clicking on a node can present the evidence for or against the hypothesis or technology according to the lab's research, and link directly to the data and methods, protocols, and code used to acquire and analyze it. Data, protocols, and code are stored on a public, version-controlled repository such as GitHub, which allows easy tracking of where and when changes were made. Nodes are connected by directed edges, symbolizing logical or procedural dependence between different hypotheses and technologies. Tightly connected clusters of nodes can signal a unit publishable as a research article.
