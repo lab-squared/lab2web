@@ -1,7 +1,8 @@
 # lab2web
 ### lab2web builds webs (mental maps) presenting current research.
 Read more at [lab-squared.github.io](lab-squared.github.io)
-Made by Pablo Cardenas, [pablo-cardenas.com](pablo-cardenas.com)
+
+Made by Pablo Cárdenas, [pablo-cardenas.com](pablo-cardenas.com)
 
 Based on [JSNetworkX](http://jsnetworkx.org)
 Colors taken from color blind palette on
